@@ -51,7 +51,7 @@ An AI hardware accelerator project focused on implementing a parameterizable sys
 - Verilog RTL design and functional verification
 - ASIC implementation using the SkyWater SKY130 PDK and OpenLane
 
-**Target:** 2x2 systolic array.
+**Target:** 16x16 systolic array.
 
 **Status:** In development, targeting the RTL-to-GDSII flow and tapeout.
 
@@ -82,6 +82,16 @@ A digital hardware IP designed to use telemetry inputs to manage power-related o
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shreyas-cn-870a562a2?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
----
 
-*Building digital hardware, one design at a time.*
+
+## 🔗 Featured Project: I2C Protocol Design
+
+**Design and Verification of I2C Communication Protocol using Verilog HDL**
+
+A simplified I2C-style communication demonstration featuring address and R/W bit transmission, data transmission, START and STOP conditions, and a testbench.
+
+**Technologies:** Verilog HDL | RTL Design | Simulation
+
+📂 **[View I2C-Protocol-Design Repository](https://github.com/ShreyasCN-19/I2C-Protocol-Design)**
+
+---
